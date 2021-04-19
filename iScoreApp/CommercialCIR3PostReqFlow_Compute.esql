@@ -5,6 +5,7 @@ CREATE COMPUTE MODULE CommercialCIR3PostReqFlow_Compute
 	BEGIN
 		-- CALL CopyMessageHeaders();
 		CALL CopyEntireMessage();
+		
 		RETURN TRUE;
 	END;
 

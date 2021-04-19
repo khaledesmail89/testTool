@@ -12,7 +12,7 @@
       <nodes xmi:type="ComIbmWSReply.msgnode:FCMComposite_1" xmi:id="FCMComposite_1_2" location="928,155">
         <translation xmi:type="utility:ConstantString" string="HTTP Reply"/>
       </nodes>
-      <nodes xmi:type="ComIbmSOAPRequest.msgnode:FCMComposite_1" xmi:id="FCMComposite_1_3" location="562,216" wsdlFileName="WSDL.wsdl" selectedPortType="LiveRequestInvokerSoap" selectedBinding="LiveRequestInvokerSoap12" selectedOperation="PostRequest" selectedPort="LiveRequestInvokerSoap12" targetNamespace="http://tempuri.org/" useHTTPTransport="true" webServiceURL="http://10.1.2.3/IscoreWeb/liverequestinvoker.asmx" sslProtocol="TLS">
+      <nodes xmi:type="ComIbmSOAPRequest.msgnode:FCMComposite_1" xmi:id="FCMComposite_1_3" location="541,92" wsdlFileName="WSDL.wsdl" selectedPortType="LiveRequestInvokerSoap" selectedBinding="LiveRequestInvokerSoap12" selectedOperation="PostRequest" selectedPort="LiveRequestInvokerSoap12" targetNamespace="http://tempuri.org/" useHTTPTransport="true" webServiceURL="http://10.1.2.3/IscoreWeb/liverequestinvoker.asmx" sslProtocol="TLS">
         <translation xmi:type="utility:ConstantString" string="SOAP Request"/>
       </nodes>
       <nodes xmi:type="ComIbmCompute.msgnode:FCMComposite_1" xmi:id="FCMComposite_1_4" location="273,154" computeExpression="esql://routine/#CommercialCIR3PostReqFlow_Compute.Main">
